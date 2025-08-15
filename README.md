@@ -17,7 +17,6 @@ This project implements a CycleGAN model to translate images between two domains
 
 The goal of this project is to use CycleGANs to perform style transfer, learning to translate photographs of landscapes into Monet-style paintings and vice versa, without paired examples. CycleGANs achieve this by enforcing cycle-consistency, ensuring that an image translated to the target domain and then back to the original domain returns the original image.
 
-![Uploading Screenshot from 2025-08-15 14-21-44.png…]()
 
 ## Dataset
 
@@ -75,9 +74,7 @@ The model is implemented using TensorFlow/Keras (or PyTorch, if applicable).
 
 Sample outputs, training curves, and evaluation metrics can be found in the `results/` directory.
 
-| Photograph | Monet-style Output |
-|------------|-------------------|
-| ![Photo](results/photo_sample.jpg) | ![Monet](results/monet_sample.jpg) |
+| ![Photo](![Uploading Screenshot from 2025-08-15 14-21-44.png…]()
 
 ## References
 
