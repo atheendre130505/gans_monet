@@ -74,7 +74,8 @@ The model is implemented using TensorFlow/Keras (or PyTorch, if applicable).
 
 Sample outputs, training curves, and evaluation metrics can be found in the `results/` directory.
 
-| ![Photo](![Uploading Screenshot from 2025-08-15 14-21-44.png…]()
+<img width="1468" height="322" alt="Screenshot from 2025-08-15 14-21-44" src="https://github.com/user-attachments/assets/9a231115-ce42-47fc-a185-aca1b65d4867" />
+
 
 ## References
 
